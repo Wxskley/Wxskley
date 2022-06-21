@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Weskley e eu não gosto de programar! 🤯
-![LeanWeskley GitHub stats](https://github-readme-stats.vercel.app/api?username=LeanWeskley&show_icons=true&theme=dark)
-## Linguagens que eu mais sofro
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanWeskley&layout=compact)](https://github.com/LeanWeskley/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/LeanWeskley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeanWeskley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeanWeskley&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 ## Tecnologias que eu já passei raiva
 <div style="display: inline_block">
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
