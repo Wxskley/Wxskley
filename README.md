@@ -22,3 +22,7 @@
 </div>
 <br>
 <p align="center">Na hora da obrigação o caba desenrola, infelizmente.</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wxskley/count.svg" />
+</p>
