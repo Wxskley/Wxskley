@@ -1,11 +1,11 @@
-### Olá! Eu sou o Weskley e eu não gosto de programar! 🤯
+### Olá! Eu sou o Weskley e eu programo um pouquinho! 🤯
 <div align="center">
   <a href="https://github.com/Wxskley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wxskley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wxskley&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Tecnologias que eu já passei raiva
+## Tecnologias que eu já utilizei
 <div style="display: inline_block">
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,6 @@
   <img align="center" alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </div>
 <br>
-<p align="center">Na hora da obrigação o caba desenrola, infelizmente.</p>
 <p align="center"> 
   Contador de Visitas<br>
   <img src="https://profile-counter.glitch.me/wxskley/count.svg" />
